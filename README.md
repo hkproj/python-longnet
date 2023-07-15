@@ -1,2 +1,2 @@
 # pytorch-longnet
-PyTorch implementation of the LongNet paper
+Tools and experiments with the LongNet model
